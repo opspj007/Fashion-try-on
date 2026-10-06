@@ -1,0 +1,8 @@
+{
+  "name": "Remix Remix Remix Remix AJUPY AI",
+  "description": "AJUPY AI is an advanced AI-powered fashion platform for virtual try-ons and accessory customization. It features intelligent body part detection, style suggestions, and high-resolution image generation for necklaces, earrings, and headpieces.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
